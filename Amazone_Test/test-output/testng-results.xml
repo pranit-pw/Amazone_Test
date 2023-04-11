@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-22T02:32:39 IST" name="Default suite" finished-at="2023-03-22T02:33:07 IST" duration-ms="27360">
+    <groups>
+    </groups>
+    <test started-at="2023-03-22T02:32:39 IST" name="Default test" finished-at="2023-03-22T02:33:07 IST" duration-ms="27360">
+      <class name="Test_Methods.VerifyLoginPage">
+        <test-method is-config="true" signature="lunchBrowser()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:39 IST" name="lunchBrowser" finished-at="2023-03-22T02:32:41 IST" duration-ms="1854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBrowser -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:41 IST" name="goToLoginPage" finished-at="2023-03-22T02:32:44 IST" duration-ms="2447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="verifyKeepMeSigninCheckbox()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:44 IST" name="verifyKeepMeSigninCheckbox" finished-at="2023-03-22T02:32:46 IST" duration-ms="2365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKeepMeSigninCheckbox -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:46 IST" name="goToLoginPage" finished-at="2023-03-22T02:32:48 IST" duration-ms="1728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="verifyErrorMessageOfIncorrectUserName()[pri:1, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:48 IST" name="verifyErrorMessageOfIncorrectUserName" finished-at="2023-03-22T02:32:50 IST" duration-ms="2206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMessageOfIncorrectUserName -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:50 IST" name="goToLoginPage" finished-at="2023-03-22T02:32:51 IST" duration-ms="1441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="verifyTextPresentOnCreateAccountButton()[pri:2, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:51 IST" name="verifyTextPresentOnCreateAccountButton" finished-at="2023-03-22T02:32:52 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextPresentOnCreateAccountButton -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:52 IST" name="goToLoginPage" finished-at="2023-03-22T02:32:54 IST" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="verifyErrorMessageOfIncorrectPassword()[pri:3, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:54 IST" name="verifyErrorMessageOfIncorrectPassword" finished-at="2023-03-22T02:32:58 IST" duration-ms="3731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMessageOfIncorrectPassword -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:58 IST" name="goToLoginPage" finished-at="2023-03-22T02:32:59 IST" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="verifyForgotPasswordLink()[pri:4, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:32:59 IST" name="verifyForgotPasswordLink" finished-at="2023-03-22T02:33:02 IST" duration-ms="3405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLink -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:33:02 IST" name="goToLoginPage" finished-at="2023-03-22T02:33:04 IST" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="verifyChangeLink()[pri:5, instance:Test_Methods.VerifyLoginPage@57af006c]" started-at="2023-03-22T02:33:04 IST" name="verifyChangeLink" finished-at="2023-03-22T02:33:07 IST" duration-ms="2857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChangeLink -->
+      </class> <!-- Test_Methods.VerifyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
